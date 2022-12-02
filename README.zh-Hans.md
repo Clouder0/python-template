@@ -1,29 +1,29 @@
 <div id="top"></div>
 
-<h3 align="center">My Package</h3>
+<h3 align="center">siyuanhelper</h3>
   <p align="center">
-    My Package.
+    思源笔记 API 的工具库。
     <br />
-    <a href="https://clouder0.github.io/siyuanhelper/"><strong>Explore the docs »</strong></a>
+    <a href="https://clouder0.github.io/siyuanhelper/zh/"><strong>查看文档 »</strong></a>
     <br />
-    <a href="https://github.com/Clouder0/siyuanhelper/blob/main/README.zh-Hans.md"><strong>中文 »</strong></a>
+    <a href="https://github.com/Clouder0/siyuanhelper/blob/main/README.md/"><strong>English »</strong></a>
   </p>
 </div>
 
-## 📜 TOC
+## 📜 目录
 
 <details><summary>Table of Contents</summary>
 
 - [🌟 Badges](#🌟-badges)
-- [💡 Introduction](#💡-introduction)
-- [✨ Features](#✨-features)
-- [🎏 Getting Started](#🎏-getting-started)
-- [🗺️ Roadmap](#🗺️-roadmap)
+- [💡 介绍](#💡-介绍)
+- [✨ 特性](#✨-特性)
+- [🎏 快速入门](#🎏-快速入门)
+- [🗺️ 路线图](#🗺️-路线图)
 - [❓ Faq](#❓-faq)
-- [💌 Contributing](#💌-contributing)
-- [🙏 Acknowledgment](#🙏-acknowledgment)
-- [📖 License](#📖-license)
-- [📧 Contact](#📧-contact)
+- [💌 贡献](#💌-贡献)
+- [🙏 致谢](#🙏-致谢)
+- [📖 许可](#📖-许可)
+- [📧 联系](#📧-联系)
 
 </details>
 
@@ -44,36 +44,40 @@
 [![CodeFactor-shield]][CodeFactor-url]
 [![code-style-black-shield]][code-style-black-url]
 
-<!-- INTRODUCTION -->
+## 💡 介绍
 
-## 💡 Introduction
+Siyuan Helper 是一个思源笔记 API 的封装库。
 
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## ✨ 特性
 
-## ✨ Features
+- 异步操作
+- 面向对象
+- 标注类型
+- 文档完善
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
-## 🎏 Getting Started
+## 🎏 快速入门
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+查看[快速入门文档](https://clouder0.github.io/siyuanhelper/zh/quickstart/)来光速起步。
 
-## 🗺️ Roadmap
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
-Please check out our [Github Project](https://github.com/Clouder0/siyuanhelper/projects/1).
+## 🗺️ 路线图
 
-See the [open issues](https://github.com/Clouder0/siyuanhelper/issues) for a full list of proposed features (and known issues).
+查看 [Github Project](https://github.com/Clouder0/siyuanhelper/projects/1).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[Issues](https://github.com/Clouder0/siyuanhelper/issues) 中包含了许多计划。
+
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
 ## ❓ FAQ
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 💌 Contributing
+## 💌 贡献
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -88,34 +92,32 @@ Don't forget to give the project a star! Thanks again!
 
 Don't forget to see our [Contributing Guidelines](https://github.com/Clouder0/siyuanhelper/blob/main/CONTRIBUTING.md) for details.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
-## 🙏 Acknowledgment
+## 🙏 致谢
 
-There are various open source projects that siyuanhelper depends on, without which this tool wouldn't exist. Credits to them!
+Siyuanhelper 构建于许多开源项目之上，没有它们，这个库不会存在。在此表示感谢。
 
 - [aiohttp](https://github.com/aio-libs/aiohttp), Apache License 2.0
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
 ## 📖 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+MIT 许可. 查看 `LICENSE` 文件以获取更多信息。
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
 ## 📧 Contact
 
-Clouder0's email: clouder0@outlook.com
+Clouder0 的邮箱: clouder0@outlook.com
 
-Project Link: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clouder0/siyuanhelper)
+仓库地址: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clouder0/siyuanhelper)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">回到顶部</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [contributors-shield]: https://img.shields.io/github/contributors/Clouder0/siyuanhelper.svg?style=for-the-badge
 [contributors-url]: https://github.com/Clouder0/siyuanhelper/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Clouder0/siyuanhelper.svg?style=for-the-badge
@@ -142,4 +144,3 @@ Project Link: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clou
 [CodeFactor-url]: https://www.codefactor.io/repository/github/clouder0/siyuanhelper/overview/main
 [pepy-shield]: https://static.pepy.tech/personalized-badge/siyuanhelper?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads
 [pepy-url]: https://pepy.tech/project/siyuanhelper
-
