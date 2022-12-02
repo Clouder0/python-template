@@ -142,4 +142,3 @@ Project Link: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clou
 [CodeFactor-url]: https://www.codefactor.io/repository/github/clouder0/siyuanhelper/overview/main
 [pepy-shield]: https://static.pepy.tech/personalized-badge/siyuanhelper?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads
 [pepy-url]: https://pepy.tech/project/siyuanhelper
-
