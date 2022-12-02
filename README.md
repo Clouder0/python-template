@@ -4,9 +4,9 @@
   <p align="center">
     My Package.
     <br />
-    <a href="https://clouder0.github.io/siyuanhelper/"><strong>Explore the docs »</strong></a>
+    <a href="https://clouder0.github.io/python-template/"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/Clouder0/siyuanhelper/blob/main/README.zh-Hans.md"><strong>中文 »</strong></a>
+    <a href="https://github.com/Clouder0/python-template/blob/main/README.zh-Hans.md"><strong>中文 »</strong></a>
   </p>
 </div>
 
@@ -61,9 +61,9 @@
 
 ## 🗺️ Roadmap
 
-Please check out our [Github Project](https://github.com/Clouder0/siyuanhelper/projects/1).
+Please check out our [Github Project](https://github.com/Clouder0/python-template/projects/1).
 
-See the [open issues](https://github.com/Clouder0/siyuanhelper/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Clouder0/python-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -86,13 +86,13 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Don't forget to see our [Contributing Guidelines](https://github.com/Clouder0/siyuanhelper/blob/main/CONTRIBUTING.md) for details.
+Don't forget to see our [Contributing Guidelines](https://github.com/Clouder0/python-template/blob/main/CONTRIBUTING.md) for details.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🙏 Acknowledgment
 
-There are various open source projects that siyuanhelper depends on, without which this tool wouldn't exist. Credits to them!
+There are various open source projects that python-template depends on, without which this tool wouldn't exist. Credits to them!
 
 - [aiohttp](https://github.com/aio-libs/aiohttp), Apache License 2.0
 
@@ -108,7 +108,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Clouder0's email: clouder0@outlook.com
 
-Project Link: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clouder0/siyuanhelper)
+Project Link: [https://github.com/Clouder0/python-template](https://github.com/Clouder0/python-template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,29 +116,29 @@ Project Link: [https://github.com/Clouder0/siyuanhelper](https://github.com/Clou
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Clouder0/siyuanhelper.svg?style=for-the-badge
-[contributors-url]: https://github.com/Clouder0/siyuanhelper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Clouder0/siyuanhelper.svg?style=for-the-badge
-[forks-url]: https://github.com/Clouder0/siyuanhelper/network/members
-[stars-shield]: https://img.shields.io/github/stars/Clouder0/siyuanhelper.svg?style=for-the-badge
-[stars-url]: https://github.com/Clouder0/siyuanhelper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Clouder0/siyuanhelper.svg?style=for-the-badge
-[issues-url]: https://github.com/Clouder0/siyuanhelper/issues
-[license-shield]: https://img.shields.io/github/license/Clouder0/siyuanhelper.svg?style=for-the-badge
-[license-url]: https://github.com/Clouder0/siyuanhelper/blob/main/LICENSE
-[github-action-test-shield]: https://github.com/Clouder0/siyuanhelper/actions/workflows/test.yml/badge.svg?branch=main
-[github-action-test-url]: https://github.com/Clouder0/siyuanhelper/actions/workflows/test.yml
-[codecov-shield]:https://codecov.io/gh/Clouder0/siyuanhelper/branch/main/graph/badge.svg?token=D2XT099AFB
-[codecov-url]: https://codecov.io/gh/Clouder0/siyuanhelper
-[pre-commit-ci-shield]: https://results.pre-commit.ci/badge/github/Clouder0/siyuanhelper/main.svg
-[pre-commit-ci-url]: https://results.pre-commit.ci/latest/github/Clouder0/siyuanhelper/main
+[contributors-shield]: https://img.shields.io/github/contributors/Clouder0/python-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Clouder0/python-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Clouder0/python-template.svg?style=for-the-badge
+[forks-url]: https://github.com/Clouder0/python-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/Clouder0/python-template.svg?style=for-the-badge
+[stars-url]: https://github.com/Clouder0/python-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Clouder0/python-template.svg?style=for-the-badge
+[issues-url]: https://github.com/Clouder0/python-template/issues
+[license-shield]: https://img.shields.io/github/license/Clouder0/python-template.svg?style=for-the-badge
+[license-url]: https://github.com/Clouder0/python-template/blob/main/LICENSE
+[github-action-test-shield]: https://github.com/Clouder0/python-template/actions/workflows/test.yml/badge.svg?branch=main
+[github-action-test-url]: https://github.com/Clouder0/python-template/actions/workflows/test.yml
+[codecov-shield]:https://codecov.io/gh/Clouder0/python-template/branch/main/graph/badge.svg?token=D2XT099AFB
+[codecov-url]: https://codecov.io/gh/Clouder0/python-template
+[pre-commit-ci-shield]: https://results.pre-commit.ci/badge/github/Clouder0/python-template/main.svg
+[pre-commit-ci-url]: https://results.pre-commit.ci/latest/github/Clouder0/python-template/main
 [code-style-black-shield]: https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge
 [code-style-black-url]: https://github.com/psf/black
-[pyversions-shield]: https://img.shields.io/pypi/pyversions/siyuanhelper.svg?style=for-the-badge
-[pyversions-url]: https://pypi.org/project/siyuanhelper/
-[release-shield]: https://img.shields.io/github/release/Clouder0/siyuanhelper.svg?style=for-the-badge
-[release-url]: https://github.com/Clouder0/siyuanhelper/releases
-[CodeFactor-shield]: https://www.codefactor.io/repository/github/clouder0/siyuanhelper/badge/main?style=for-the-badge
-[CodeFactor-url]: https://www.codefactor.io/repository/github/clouder0/siyuanhelper/overview/main
-[pepy-shield]: https://static.pepy.tech/personalized-badge/siyuanhelper?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads
-[pepy-url]: https://pepy.tech/project/siyuanhelper
+[pyversions-shield]: https://img.shields.io/pypi/pyversions/python-template.svg?style=for-the-badge
+[pyversions-url]: https://pypi.org/project/python-template/
+[release-shield]: https://img.shields.io/github/release/Clouder0/python-template.svg?style=for-the-badge
+[release-url]: https://github.com/Clouder0/python-template/releases
+[CodeFactor-shield]: https://www.codefactor.io/repository/github/clouder0/python-template/badge/main?style=for-the-badge
+[CodeFactor-url]: https://www.codefactor.io/repository/github/clouder0/python-template/overview/main
+[pepy-shield]: https://static.pepy.tech/personalized-badge/python-template?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads
+[pepy-url]: https://pepy.tech/project/python-template
